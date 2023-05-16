@@ -1,0 +1,28 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: FontFamily
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Object1
+  Id: g=5aa4168900a87d475eebb3ebb029c033
+  Type: BaseObjectType
+  Children:
+  - Name: Variable1
+    Id: g=8c45480b3b546f2cdb162056929cad3e
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 10
+  - Name: Variable2
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 20
+  - Name: Variable3
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 30
+  - Name: Variable4
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 40
